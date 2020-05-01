@@ -1,6 +1,6 @@
 {
   "name": "@dhruval/dk-ripple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Material-design ripple lit-element",
   "main": "dk-ripple.js",
   "scripts": {
