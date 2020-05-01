@@ -1,0 +1,32 @@
+{
+  "name": "@dhruval/dk-ripple",
+  "version": "1.0.0",
+  "description": "Material-design ripple lit-element",
+  "main": "dk-ripple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruval Kodinariya",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvalkodinariya/dk-ripple.git"
+  },
+  "keywords": [
+    "Maretial-design",
+    "ripple",
+    "lit-element"
+  ],
+  "bugs": {
+    "url": "https://github.com/dhruvalkodinariya/dk-ripple/issues"
+  },
+  "homepage": "https://github.com/dhruvalkodinariya/dk-ripple#readme",
+  "dependencies": {
+    "@material/ripple": "^6.0.0",
+    "lit-element": "^2.3.1"
+  },
+  "devDependencies": {}
+}
