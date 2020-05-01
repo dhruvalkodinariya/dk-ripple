@@ -29,7 +29,7 @@ export class DkRipple extends LitElement {
         }
 
         :host([unbounded]) .mdc-ripple-surface{
-          overflow:hidden;
+          border-radius:50%;
         }
 
         .mdc-ripple-surface::before, .mdc-ripple-surface::after {
